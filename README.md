@@ -1,5 +1,7 @@
 # 3D Reconstruction and Object Recognition based on Single Dataset
 
+'단일 데이터셋 기반 3차원 재구성 및 객체 인식' 논문 구현
+
 Development Environment
 
 Processor: Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz
