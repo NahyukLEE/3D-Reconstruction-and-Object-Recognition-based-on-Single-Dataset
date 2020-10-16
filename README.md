@@ -2,7 +2,7 @@
 
 '단일 데이터셋 기반 3차원 재구성 및 객체 인식' 논문 구현
 
-Development Environment
+## Development Environment
 
 Processor: Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz
 Installed RAM: 16.0GB
@@ -17,3 +17,16 @@ Python Package:
 
 Framework: AliceVision 2.3.0 for meshroom
 Software: Meshroom software  2020.1.1 for 3D Reconstruction
+
+## Step of 3D Reconstruction
+Step 1	CameraInit
+Step 2	FeatureExtraction
+Step 3	ImageMatching
+Step 4	FeatureMatching
+Step 5	StructureFromMotion
+Step 6	PrepareDenseScene
+Step 7	DepthMap
+Step 8	DepthMapFilter
+Step 9	Meshing
+Step 10	MeshFiltering
+Step 11	Texturing
