@@ -19,14 +19,14 @@ Framework: AliceVision 2.3.0 for meshroom
 Software: Meshroom software  2020.1.1 for 3D Reconstruction
 
 ## Step of 3D Reconstruction
-Step 1	CameraInit
-Step 2	FeatureExtraction
-Step 3	ImageMatching
-Step 4	FeatureMatching
-Step 5	StructureFromMotion
-Step 6	PrepareDenseScene
-Step 7	DepthMap
-Step 8	DepthMapFilter
-Step 9	Meshing
-Step 10	MeshFiltering
-Step 11	Texturing
+Step 1	CameraInit  
+Step 2	FeatureExtraction  
+Step 3	ImageMatching  
+Step 4	FeatureMatching  
+Step 5	StructureFromMotion  
+Step 6	PrepareDenseScene  
+Step 7	DepthMap  
+Step 8	DepthMapFilter  
+Step 9	Meshing  
+Step 10	MeshFiltering  
+Step 11	Texturing  
